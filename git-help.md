@@ -13,6 +13,8 @@ git remote set-url origin https://github.com/alenaprideina/c02-mobile_app_automa
 git push origin master
 ```
 
+https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
+
 ---
 
 ### Посмотреть связанные удаленные репозитории: 
