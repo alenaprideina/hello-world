@@ -1,3 +1,9 @@
+## Обучалки по git
+- https://learngitbranching.js.org/
+- https://stepik.org/course/3145/syllabus
+- https://githowto.com/ru
+
+
 ### Что делать, чтобы залить существующий проект на существующий репозиторий на github? 
 
 ```
