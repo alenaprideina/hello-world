@@ -85,3 +85,8 @@ https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
 https://stackoverflow.com/questions/7726949/remove-tracking-branches-no-longer-on-remote
 
 `git remote prune origin`
+
+---
+
+### Как сбросить состояние локальной ветки до ее состояния на удаленном репозитории
+`git reset --hard origin/alena`
