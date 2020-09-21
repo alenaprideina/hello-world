@@ -78,3 +78,10 @@ https://ru.stackoverflow.com/questions/431520/%D0%9A%D0%B0%D0%BA-%D0%B2%D0%B5%D1
 https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch
 
 https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
+
+--- 
+
+### Как удалить ссылки на удаленные ветки, которых уже нет на удаленном репозитории
+https://stackoverflow.com/questions/7726949/remove-tracking-branches-no-longer-on-remote
+
+`git remote prune origin`
